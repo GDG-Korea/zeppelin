@@ -5,22 +5,22 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+title: "GDG Korea DevFair 2014"
+email: ""
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
+baseurl: ""
+url: ""
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerName: "GDG Korea"
+organizerAlternateName: "Google Developer Group Korea"
+organizerDescription: "구글 기술에 관심이 많은 개발자들의 모임으로 한국에 9개의 지역별, 기술별 모임이 있습니다. 누구에게나 열려있고 열정이 넘치는 개발자들의 모임입니다."
 organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLogo: "/img/seo/GDG_Korea.png"
+organizerLink: "https://plus.google.com/103710008251066466508"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -41,29 +41,27 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDG DevFest<typeout>2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroImage: "seoul_night.jpg"
+heroTitle: "<typeout> ?"
+eventDate: "2014년 11월 29일 토요일 오전 10시 ~ 오후 7"
+typeoutTextValues: '"Android", "Appengine", "Polymer", "Golang", "HTML5", "Dart", "Angularjs", "Chrome"'
+typeoutFallback: "Korea"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+ - {title: "Codelab", image: "workshop.jpg", text: "나는 개발자! 궁금했던 기술에 대하여 직접 코드로 배워보는 시간. 여러분의 궁금증을 해소시켜줄 튜터와 함께 액티브한 코딩을 해보며 즐기는 코드랩에 참여해보세요." }
+ - {title: "Conference", image: "conference.jpg", text: "GDG에서 엄선한 세션들을 들어보세요. 정말 멋진 발표자분들의 멋진 발표. 듣기만 해도 지식도 쑥쑥, 영감도 쑥쑥!" }
+ - {title: "Networking", image: "hackathon.jpg", text: "나와 비슷한 관심사, 공감대를 가진 사람들을 만나보세요. 행사에 참여해 조금만 고개를 돌려보면 모두 같은 생각입니다. 어서 입으로 출력해보세요. '안녕하세요'" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -77,38 +75,38 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "session_devfest.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+locationBlockTitle: "장소"
+eventLocationName: "마루180"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
+eventStreetAddress: "역삼로 180"
+eventAddressLocality: "역삼동"
+eventAddressLocalityRegion: "강남구"
 eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventAddressCountry: "대한민국"
+eventStartTime: "2014-11-29T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2014-11-29T19:00"
+eventPlaceCoordinates: "37.495472, 127.038854"
+mapCenterCoordinates: "37.4953765, 127.0380564"
+mapMobileCenterCoordinates: "37.4953765, 127.0380564"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueBigImage: "maru_0.png"
+venueSmallImage1: "maru_1.png"
+venueSmallImage2: "maru_2.png"
+venueSmallImage3: "maru_3.png"
+venueTitle: "마루180"
+venueFeatures: ["대형 세미나실", "깔끔하고 모던한 실내 인테리어", "스타트업들을 위한 공유 공간"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "korean_light.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
