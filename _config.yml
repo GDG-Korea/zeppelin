@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "GDG Korea DevFair 2014"
 email: ""
 description: "GDG DevFest is a set of events all around the world"
-baseurl: ""
+baseurl: "zeppelin"
 url: ""
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
