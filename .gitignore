@@ -3,6 +3,7 @@
 
 ### Jekyll ###
 _site/
+.idea/
 
 ### Sass ###
 .sass-cache
