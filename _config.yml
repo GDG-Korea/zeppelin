@@ -37,10 +37,10 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+# - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/team/", text: "Team"}
 
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -48,16 +48,16 @@ rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "seoul_night.jpg"
+heroImage: "fireworks.jpg"
 heroTitle: "<typeout> ?"
-eventDate: "2014년 11월 29일 토요일 오전 10시 ~ 오후 7"
+eventDate: "2014년 11월 29일 토요일 오전 10시 ~ 오후 7시"
 typeoutTextValues: '"Android", "Appengine", "Polymer", "Golang", "HTML5", "Dart", "Angularjs", "Chrome"'
 typeoutFallback: "Korea"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "DevFair에서는."
 aboutBlock:
  - {title: "Codelab", image: "workshop.jpg", text: "나는 개발자! 궁금했던 기술에 대하여 직접 코드로 배워보는 시간. 여러분의 궁금증을 해소시켜줄 튜터와 함께 액티브한 코딩을 해보며 즐기는 코드랩에 참여해보세요." }
  - {title: "Conference", image: "conference.jpg", text: "GDG에서 엄선한 세션들을 들어보세요. 정말 멋진 발표자분들의 멋진 발표. 듣기만 해도 지식도 쑥쑥, 영감도 쑥쑥!" }
@@ -97,13 +97,34 @@ mapCenterCoordinates: "37.4953765, 127.0380564"
 mapMobileCenterCoordinates: "37.4953765, 127.0380564"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "공간"
 venueBigImage: "maru_0.png"
 venueSmallImage1: "maru_1.png"
 venueSmallImage2: "maru_2.png"
 venueSmallImage3: "maru_3.png"
 venueTitle: "마루180"
 venueFeatures: ["대형 세미나실", "깔끔하고 모던한 실내 인테리어", "스타트업들을 위한 공유 공간"]
+
+venueBigImage1: "mic_0.jpg"
+venueSmallImage11: "mic_1.jpg"
+venueSmallImage12: "mic_2.jpg"
+venueSmallImage13: "mic_3.jpg"
+venueTitle1: "마이크임팩트"
+venueFeatures1: ["깔끔하고 모던한 실내 인테리어", "카페테리아겸 공유 공간"]
+
+venueBigImage2: "maru_0.png"
+venueSmallImage21: "maru_1.png"
+venueSmallImage22: "maru_2.png"
+venueSmallImage23: "maru_3.png"
+venueTitle2: "공간.여유.Coffee"
+venueFeatures2: ["여유로움이 느껴지는 공간","넓은 홀과 작은 회의실", "카페테리아 & 세미나 장소"]
+
+venueBigImage3: "maru_0.png"
+venueSmallImage31: "maru_1.png"
+venueSmallImage32: "maru_2.png"
+venueSmallImage33: "maru_3.png"
+venueTitle3: "헨델과 그레텔"
+venueFeatures3: ["아기자기하고 귀여운 인테리어", "맛있는 수제 햄버거"]
 
 # Tweets Feed Block
 tweetsFeedImage: "korean_light.jpg"
@@ -112,8 +133,8 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
+organizersTitle: "주최"
+partnersTitle: "후원"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
@@ -164,24 +185,23 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://plus.google.com/103710008251066466508/posts", icon: "google-plus"}
+ - {link: "https://facebook.com/gdgkorea", icon: "facebook"}
+ #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://plus.google.com/103710008251066466508/posts", text: "GDG.Korea"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "mailto:gdg.korea@gmail.com", text: "gdg.korea@gmail.com"}
+ #-
+ # title: "FAQ"
+ # links:
+#   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
