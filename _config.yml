@@ -63,6 +63,14 @@ aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "GDG에서 엄선한 세션들을 들어보세요. 정말 멋진 발표자분들의 멋진 발표. 듣기만 해도 지식도 쑥쑥, 영감도 쑥쑥!" }
  - {title: "Networking", image: "hackathon.jpg", text: "나와 비슷한 관심사, 공감대를 가진 사람들을 만나보세요. 행사에 참여해 조금만 고개를 돌려보면 모두 같은 생각입니다. 어서 입으로 출력해보세요. '안녕하세요'" }
 
+# Waiting
+waitImage: "judges.jpg"
+waitTitle: "<span style=\"font-size:80pt;background-color: rgba(0,0,0,0.5);\">\" 忍 \"</span> <h4 style=\"background-color: rgba(0,0,0,0.5);\">기다려주십시요.<h4>"
+waitMsg: "코드랩, 세션, 발표자, 참석신청 등이 속속 공개될 예정입니다."
+waitSchedule:
+ - {msg: "코드랩/세션 공개" , date: "2014.11.1"}
+ - {msg: "참가 신청 시작" , date: "2014.11.11"}
+
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
@@ -111,6 +119,7 @@ venueSmallImage12: "mic_2.jpg"
 venueSmallImage13: "mic_3.jpg"
 venueTitle1: "마이크임팩트"
 venueFeatures1: ["Android Codelab 진행", "카페테리아겸 공유 공간"]
+venueOpen1: "block"
 
 venueBigImage2: "maru_0.png"
 venueSmallImage21: "maru_1.png"
@@ -118,6 +127,7 @@ venueSmallImage22: "maru_2.png"
 venueSmallImage23: "maru_3.png"
 venueTitle2: "공간.여유.Coffee"
 venueFeatures2: ["Tech Codelab 진행","넓은 홀과 작은 회의실", "카페테리아 & 세미나 장소"]
+venueOpen2: "none"
 
 venueBigImage3: "maru_0.png"
 venueSmallImage31: "maru_1.png"
@@ -125,6 +135,7 @@ venueSmallImage32: "maru_2.png"
 venueSmallImage33: "maru_3.png"
 venueTitle3: "헨델과 그레텔"
 venueFeatures3: ["WebTech Codelab 진행", "아기자기하고 귀여운 인테리어", "맛있는 수제 햄버거"]
+venueOpen3: "none"
 
 # Tweets Feed Block
 tweetsFeedImage: "korean_light.jpg"
