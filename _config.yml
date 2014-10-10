@@ -43,9 +43,9 @@ navigationLinks:
 # - {permalink: "/team/", text: "Team"}
 
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "fireworks.jpg"
@@ -103,28 +103,28 @@ venueSmallImage1: "maru_1.png"
 venueSmallImage2: "maru_2.png"
 venueSmallImage3: "maru_3.png"
 venueTitle: "마루180"
-venueFeatures: ["대형 세미나실", "깔끔하고 모던한 실내 인테리어", "스타트업들을 위한 공유 공간"]
+venueFeatures: ["기술 세미나 진행", "깔끔하고 모던한 실내 인테리어", "스타트업들을 위한 공유 공간"]
 
 venueBigImage1: "mic_0.jpg"
 venueSmallImage11: "mic_1.jpg"
 venueSmallImage12: "mic_2.jpg"
 venueSmallImage13: "mic_3.jpg"
 venueTitle1: "마이크임팩트"
-venueFeatures1: ["깔끔하고 모던한 실내 인테리어", "카페테리아겸 공유 공간"]
+venueFeatures1: ["Android Codelab 진행", "카페테리아겸 공유 공간"]
 
 venueBigImage2: "maru_0.png"
 venueSmallImage21: "maru_1.png"
 venueSmallImage22: "maru_2.png"
 venueSmallImage23: "maru_3.png"
 venueTitle2: "공간.여유.Coffee"
-venueFeatures2: ["여유로움이 느껴지는 공간","넓은 홀과 작은 회의실", "카페테리아 & 세미나 장소"]
+venueFeatures2: ["Tech Codelab 진행","넓은 홀과 작은 회의실", "카페테리아 & 세미나 장소"]
 
 venueBigImage3: "maru_0.png"
 venueSmallImage31: "maru_1.png"
 venueSmallImage32: "maru_2.png"
 venueSmallImage33: "maru_3.png"
 venueTitle3: "헨델과 그레텔"
-venueFeatures3: ["아기자기하고 귀여운 인테리어", "맛있는 수제 햄버거"]
+venueFeatures3: ["WebTech Codelab 진행", "아기자기하고 귀여운 인테리어", "맛있는 수제 햄버거"]
 
 # Tweets Feed Block
 tweetsFeedImage: "korean_light.jpg"
