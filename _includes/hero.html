@@ -3,7 +3,7 @@
     {% include navigation.html %}
     <div class="content-wrapper">
     <div class="jumbotron" style="background-color: rgba(0,0,0,0.5);padding-bottom: 15px;">
-        <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
+        <div class="visible-md visible-lg animated hiding" data-animation="fadeInDown" data-delay="500">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <span style="font-size:36px;text-shadow: 1px 1px #000000; font-weight: bold;">무엇이 궁금하신가요?</span>
             <h2 style="margin-top:10px;text-shadow: 1px 1px #000000;">{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h2><br>
@@ -12,6 +12,19 @@
             <p style="font-size:20px;text-shadow: 1px 1px #000000; font-weight: bold;"> 에서 그 궁금증을 해결하세요.</p>
             <br>
             <p style="font-size:15px;text-shadow: 1px 1px #000000; font-weight: bold;">{{ site.eventDate }} - 역삼동 "마루180" 주변</p>
+            {% for button in site.heroButtons %}
+            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+            {% endfor %}
+        </div>
+        <div class="visible-sm visible-xs animated hiding" data-animation="fadeInDown" data-delay="500" style="padding-top: 20px;">
+            {% assign heroText = site.heroTitle | split:"<typeout>" %}
+            <span style="font-size:18px;text-shadow: 1px 1px #000000; font-weight: bold;">무엇이 궁금하신가요?</span>
+            <h2 style="margin-top:10px;text-shadow: 1px 1px #000000;">{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h2><br>
+            <p style="font-size:20px;text-shadow: 1px 1px #000000; font-weight: bold;">" 개발자들의 축제 "</p>
+            <p style="font-size:32px;text-shadow: 1px 1px #000000; font-weight: bold;color:yellow;">GDG Korea DevFair 2014</p>
+            <p style="font-size:18px;text-shadow: 1px 1px #000000; font-weight: bold;"> 에서 그 궁금증을 해결하세요.</p>
+            <br>
+            <p style="font-size:12px;text-shadow: 1px 1px #000000; font-weight: bold;">{{ site.eventDate }}</p><p style="font-size:12px;text-shadow: 1px 1px #000000; font-weight: bold;"> 역삼동 "마루180" 주변</p>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
