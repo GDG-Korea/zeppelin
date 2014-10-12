@@ -23,7 +23,7 @@ organizerLogo: "/img/seo/GDG_Korea.png"
 organizerLink: "https://plus.google.com/103710008251066466508"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfair, google, programming, android, chrome, developers, korea"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -52,7 +52,7 @@ heroImage: "fireworks.jpg"
 heroTitle: "<typeout> ?"
 eventDate: "2014년 11월 29일 토요일 오전 10시 ~ 오후 7시"
 typeoutTextValues: '"Android", "Appengine", "Polymer", "Golang", "HTML5", "Dart", "Angularjs", "Chrome"'
-typeoutFallback: "Korea"
+typeoutFallback: "Android? Polymer"
 heroButtons:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
