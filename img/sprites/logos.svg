@@ -2,117 +2,118 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="185px" height="188px" viewBox="0 0 185 188" enable-background="new 0 0 185 188" xml:space="preserve">
+	 width="230.334px" height="236.166px" viewBox="0 0 230.334 236.166" enable-background="new 0 0 230.334 236.166"
+	 xml:space="preserve">
 <g>
 	<g>
-		<polyline fill="#FFDE1B" points="79,160.792 70.974,172.671 46.626,172.671 46.626,160.792 78.733,160.792 		"/>
-		<polygon fill="#EC2224" points="67.119,140.318 34.773,140.318 34.773,128.412 67.119,128.412 67.119,134.366 		"/>
-		<polygon fill="#2FB357" points="46.742,140.325 46.742,172.671 34.773,172.671 34.773,140.325 40.758,140.325 		"/>
+		<polyline fill="#FFDE1B" points="100.442,187.333 92.417,199.212 68.068,199.212 68.068,187.333 100.175,187.333 		"/>
+		<polygon fill="#EC2224" points="88.562,166.859 56.215,166.859 56.215,154.953 88.562,154.953 88.562,160.907 		"/>
+		<polygon fill="#2FB357" points="68.185,166.866 68.185,199.212 56.215,199.212 56.215,166.866 62.2,166.866 		"/>
 		
-			<radialGradient id="SVGID_1_" cx="-38.7378" cy="242.0918" r="12.1882" gradientTransform="matrix(0.9964 0 0 -1.0023 101.468 409.3798)" gradientUnits="userSpaceOnUse">
+			<radialGradient id="SVGID_1_" cx="-17.2178" cy="215.6123" r="12.1885" gradientTransform="matrix(0.9964 0 0 -1.0023 101.468 409.3798)" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#FFCE4E"/>
 			<stop  offset="1" style="stop-color:#F2C034"/>
 		</radialGradient>
-		<polyline fill="url(#SVGID_1_)" points="78.998,160.792 46.742,172.671 46.742,160.792 		"/>
-		<polyline fill="#46AEE2" points="67.119,128.416 79,136.443 79,160.792 67.119,160.792 67.119,128.684 		"/>
-		<polyline fill="#406FB5" points="67.119,128.412 79,160.792 67.119,160.792 		"/>
-		<polyline fill="#B43328" points="34.773,140.318 67.119,128.412 67.119,140.318 		"/>
+		<polyline fill="url(#SVGID_1_)" points="100.44,187.333 68.185,199.212 68.185,187.333 		"/>
+		<polyline fill="#46AEE2" points="88.562,154.957 100.442,162.984 100.442,187.333 88.562,187.333 88.562,155.225 		"/>
+		<polyline fill="#406FB5" points="88.562,154.953 100.442,187.333 88.562,187.333 		"/>
+		<polyline fill="#B43328" points="56.215,166.859 88.562,154.953 88.562,166.859 		"/>
 		
-			<radialGradient id="SVGID_2_" cx="-61.7422" cy="251.5059" r="12.1957" gradientTransform="matrix(1 0 0 -1 102.5 408)" gradientUnits="userSpaceOnUse">
+			<radialGradient id="SVGID_2_" cx="-40.2998" cy="224.9648" r="12.1957" gradientTransform="matrix(1 0 0 -1 102.5 408)" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#01A760"/>
 			<stop  offset="1" style="stop-color:#018F4B"/>
 		</radialGradient>
-		<polyline fill="url(#SVGID_2_)" points="46.742,172.671 34.773,140.318 46.742,140.318 		"/>
+		<polyline fill="url(#SVGID_2_)" points="68.185,199.212 56.215,166.859 68.185,166.859 		"/>
 	</g>
-	<rect x="72.464" y="154.868" fill="none" width="43.604" height="17.803"/>
-	<text transform="matrix(1 0 0 1 81.4268 171.8906)" fill="#E6E6E4" font-family="'OpenSans-Extrabold'" font-size="19.8648">EV</text>
+	<rect x="93.906" y="181.409" fill="none" width="43.604" height="17.803"/>
+	<text transform="matrix(1 0 0 1 102.8691 198.4316)" fill="#E6E6E4" font-family="'OpenSans-Extrabold'" font-size="19.8648">EV</text>
 	<g>
 		
-			<radialGradient id="SVGID_3_" cx="30.6885" cy="274.9941" r="18.3452" gradientTransform="matrix(1 0 0 -1 102.5 408)" gradientUnits="userSpaceOnUse">
+			<radialGradient id="SVGID_3_" cx="52.1309" cy="248.4531" r="18.3452" gradientTransform="matrix(1 0 0 -1 102.5 408)" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#FFCE4E"/>
 			<stop  offset="1" style="stop-color:#F2C034"/>
 		</radialGradient>
-		<polyline fill="url(#SVGID_3_)" points="107.818,138.425 117.85,127.579 158.559,127.579 148.525,138.434 		"/>
+		<polyline fill="url(#SVGID_3_)" points="129.261,164.966 139.292,154.12 180.001,154.12 169.968,164.975 		"/>
 		
-			<radialGradient id="SVGID_4_" cx="23.2822" cy="262.7471" r="13.5868" gradientTransform="matrix(1 0 0 -1 102.5 408)" gradientUnits="userSpaceOnUse">
+			<radialGradient id="SVGID_4_" cx="44.7246" cy="236.2061" r="13.5868" gradientTransform="matrix(1 0 0 -1 102.5 408)" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#01A760"/>
 			<stop  offset="1" style="stop-color:#018F4B"/>
 		</radialGradient>
-		<polyline fill="url(#SVGID_4_)" points="107.818,138.434 131.217,138.434 143.746,143.756 135.695,152.072 		"/>
-		<polyline fill="#B43328" points="128.281,143.771 143.766,143.771 133.369,154.53 114.396,154.53 		"/>
-		<polyline fill="#406FB5" points="114.396,154.53 126.377,154.53 126.377,171.54 114.396,171.54 		"/>
+		<polyline fill="url(#SVGID_4_)" points="129.261,164.975 152.659,164.975 165.188,170.297 157.138,178.613 		"/>
+		<polyline fill="#B43328" points="149.724,170.312 165.208,170.312 154.812,181.071 135.839,181.071 		"/>
+		<polyline fill="#406FB5" points="135.839,181.071 147.819,181.071 147.819,198.081 135.839,198.081 		"/>
 	</g>
-	<rect x="121.809" y="154.133" fill="none" width="43.604" height="17.805"/>
-	<text transform="matrix(1 0 0 1 128.5381 171.1553)" fill="#E6E6E4" font-family="'OpenSans-Extrabold'" font-size="19.8648">air</text>
-	<rect x="34.774" y="178.305" fill="none" width="120.033" height="8.543"/>
-	<text transform="matrix(1 0 0 1 24.4912 184.2627)" fill="#E6E6E4" font-family="'OpenSans-Semibold'" font-size="12">GDG Korea DevFair 2014</text>
+	<rect x="143.251" y="180.674" fill="none" width="43.604" height="17.805"/>
+	<text transform="matrix(1 0 0 1 149.9805 197.6963)" fill="#E6E6E4" font-family="'OpenSans-Extrabold'" font-size="19.8648">air</text>
+	<rect x="56.216" y="204.846" fill="none" width="120.033" height="8.543"/>
+	<text transform="matrix(1 0 0 1 11.9932 218.8037)" fill="#E6E6E4" font-family="'OpenSans-Semibold'" font-size="18">GDG Korea DevFair 2014</text>
 </g>
 <g>
-	<rect x="73.808" y="91.671" fill="none" width="44.741" height="18.269"/>
-	<text transform="matrix(1 0 0 1 83.0049 109.1357)" fill="#808184" font-family="'OpenSans-Extrabold'" font-size="20.3817">EV</text>
-	<rect x="124.436" y="90.918" fill="none" width="44.738" height="18.268"/>
-	<text transform="matrix(1 0 0 1 131.3398 108.3828)" fill="#808184" font-family="'OpenSans-Extrabold'" font-size="20.3817">air</text>
-	<rect x="34.333" y="116.881" fill="none" width="123.155" height="8.764"/>
-	<text transform="matrix(1 0 0 1 24.4912 122.9941)" fill="#58595B" font-family="'OpenSans-Semibold'" font-size="12">GDG Korea DevFair 2014</text>
+	<rect x="94.412" y="104.271" fill="none" width="44.74" height="18.269"/>
+	<text transform="matrix(1 0 0 1 103.6084 121.7354)" fill="#808184" font-family="'OpenSans-Extrabold'" font-size="20.3817">EV</text>
+	<rect x="145.039" y="103.518" fill="none" width="44.738" height="18.268"/>
+	<text transform="matrix(1 0 0 1 151.9434 120.9824)" fill="#808184" font-family="'OpenSans-Extrabold'" font-size="20.3817">air</text>
+	<rect x="54.937" y="129.48" fill="none" width="123.155" height="8.764"/>
+	<text transform="matrix(1 0 0 1 11.9932 142.9268)" fill="#58595B" font-family="'OpenSans-Semibold'" font-size="18">GDG Korea DevFair 2014</text>
 	<g>
-		<polyline fill="#808184" points="80.687,97.779 72.451,109.968 47.471,109.968 47.471,97.779 80.414,97.779 		"/>
-		<path fill="#FFFFFF" d="M61.11,64.558"/>
-		<polygon fill="#808184" points="68.497,76.774 35.311,76.774 35.311,64.558 68.497,64.558 68.497,70.666 		"/>
-		<polygon fill="#808184" points="47.59,76.781 47.59,109.968 35.311,109.968 35.311,76.781 41.45,76.781 		"/>
-		<polyline fill="#808184" points="68.497,64.562 80.687,72.799 80.687,97.779 68.497,97.779 68.497,64.836 		"/>
+		<polyline fill="#808184" points="101.291,110.379 93.055,122.567 68.075,122.567 68.075,110.379 101.018,110.379 		"/>
+		<path fill="#FFFFFF" d="M81.713,77.158"/>
+		<polygon fill="#808184" points="89.101,89.374 55.915,89.374 55.915,77.158 89.101,77.158 89.101,83.266 		"/>
+		<polygon fill="#808184" points="68.193,89.381 68.193,122.567 55.915,122.567 55.915,89.381 62.054,89.381 		"/>
+		<polyline fill="#808184" points="89.101,77.162 101.291,85.398 101.291,110.379 89.101,110.379 89.101,77.436 		"/>
 	</g>
 	<g>
-		<polyline fill="#404041" points="108.943,74.97 119.119,63.967 160.421,63.967 150.243,74.978 		"/>
-		<polyline fill="#808184" points="108.943,74.978 132.682,74.978 145.393,80.379 137.225,88.816 		"/>
-		<polyline fill="#404041" points="129.704,80.395 145.411,80.395 134.866,91.309 115.617,91.309 		"/>
-		<polyline fill="#808184" points="115.617,91.309 129.666,91.309 129.666,108.566 115.617,108.566 		"/>
+		<polyline fill="#404041" points="129.547,87.569 139.723,76.566 181.024,76.566 170.847,87.578 		"/>
+		<polyline fill="#808184" points="129.547,87.578 153.285,87.578 165.996,92.979 157.828,101.416 		"/>
+		<polyline fill="#404041" points="150.308,92.994 166.015,92.994 155.47,103.908 136.221,103.908 		"/>
+		<polyline fill="#808184" points="136.221,103.908 150.27,103.908 150.27,121.166 136.221,121.166 		"/>
 	</g>
 	
-		<rect x="40.303" y="69.575" transform="matrix(-0.9385 0.3452 -0.3452 -0.9385 142.5274 149.1535)" fill="#404041" width="35.362" height="35.383"/>
-	<rect x="47.531" y="76.78" fill="#FFFFFF" width="20.909" height="20.981"/>
+		<rect x="60.906" y="82.175" transform="matrix(-0.9385 0.3452 -0.3452 -0.9385 186.8178 166.4657)" fill="#404041" width="35.362" height="35.384"/>
+	<rect x="68.135" y="89.38" fill="#FFFFFF" width="20.908" height="20.981"/>
 </g>
 <g>
 	<g>
-		<polyline fill="#FFDE1B" points="79.56,35.776 71.533,47.655 47.186,47.655 47.186,35.776 79.292,35.776 		"/>
-		<polygon fill="#EC2224" points="67.679,15.303 35.333,15.303 35.333,3.396 67.679,3.396 67.679,9.351 		"/>
-		<polygon fill="#2FB357" points="47.302,15.309 47.302,47.655 35.333,47.655 35.333,15.309 41.317,15.309 		"/>
+		<polyline fill="#FFDE1B" points="99.616,37.663 91.59,49.542 67.243,49.542 67.243,37.663 99.349,37.663 		"/>
+		<polygon fill="#EC2224" points="87.735,17.189 55.39,17.189 55.39,5.283 87.735,5.283 87.735,11.238 		"/>
+		<polygon fill="#2FB357" points="67.358,17.196 67.358,49.542 55.39,49.542 55.39,17.196 61.374,17.196 		"/>
 		
-			<radialGradient id="SVGID_5_" cx="-38.1758" cy="366.8203" r="12.1887" gradientTransform="matrix(0.9964 0 0 -1.0023 101.468 409.3798)" gradientUnits="userSpaceOnUse">
+			<radialGradient id="SVGID_5_" cx="-18.0474" cy="364.9395" r="12.1882" gradientTransform="matrix(0.9964 0 0 -1.0023 101.468 409.3798)" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#FFCE4E"/>
 			<stop  offset="1" style="stop-color:#F2C034"/>
 		</radialGradient>
-		<polyline fill="url(#SVGID_5_)" points="79.558,35.776 47.302,47.655 47.302,35.776 		"/>
-		<polyline fill="#46AEE2" points="67.679,3.4 79.56,11.428 79.56,35.776 67.679,35.776 67.679,3.668 		"/>
-		<polyline fill="#406FB5" points="67.679,3.396 79.56,35.776 67.679,35.776 		"/>
-		<polyline fill="#B43328" points="35.333,15.303 67.679,3.396 67.679,15.303 		"/>
+		<polyline fill="url(#SVGID_5_)" points="99.614,37.663 67.358,49.542 67.358,37.663 		"/>
+		<polyline fill="#46AEE2" points="87.735,5.287 99.616,13.314 99.616,37.663 87.735,37.663 87.735,5.555 		"/>
+		<polyline fill="#406FB5" points="87.735,5.283 99.616,37.663 87.735,37.663 		"/>
+		<polyline fill="#B43328" points="55.39,17.189 87.735,5.283 87.735,17.189 		"/>
 		
-			<radialGradient id="SVGID_6_" cx="-61.1826" cy="376.5215" r="12.1957" gradientTransform="matrix(1 0 0 -1 102.5 408)" gradientUnits="userSpaceOnUse">
+			<radialGradient id="SVGID_6_" cx="-41.126" cy="374.6348" r="12.1957" gradientTransform="matrix(1 0 0 -1 102.5 408)" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#01A760"/>
 			<stop  offset="1" style="stop-color:#018F4B"/>
 		</radialGradient>
-		<polyline fill="url(#SVGID_6_)" points="47.302,47.655 35.333,15.303 47.302,15.303 		"/>
+		<polyline fill="url(#SVGID_6_)" points="67.358,49.542 55.39,17.189 67.358,17.189 		"/>
 	</g>
-	<rect x="73.023" y="29.852" fill="none" width="43.604" height="17.803"/>
-	<text transform="matrix(1 0 0 1 81.9863 46.875)" fill="#4E4E4E" font-family="'OpenSans-Extrabold'" font-size="19.8648">EV</text>
+	<rect x="93.079" y="31.739" fill="none" width="43.604" height="17.803"/>
+	<text transform="matrix(1 0 0 1 102.043 48.7617)" fill="#4E4E4E" font-family="'OpenSans-Extrabold'" font-size="19.8648">EV</text>
 	<g>
 		
-			<radialGradient id="SVGID_7_" cx="31.2476" cy="400.0098" r="18.345" gradientTransform="matrix(1 0 0 -1 102.5 408)" gradientUnits="userSpaceOnUse">
+			<radialGradient id="SVGID_7_" cx="51.3042" cy="398.123" r="18.345" gradientTransform="matrix(1 0 0 -1 102.5 408)" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#FFCE4E"/>
 			<stop  offset="1" style="stop-color:#F2C034"/>
 		</radialGradient>
-		<polyline fill="url(#SVGID_7_)" points="108.378,13.409 118.409,2.563 159.117,2.563 149.086,13.417 		"/>
+		<polyline fill="url(#SVGID_7_)" points="128.435,15.296 138.466,4.45 179.174,4.45 169.143,15.304 		"/>
 		
-			<radialGradient id="SVGID_8_" cx="23.8423" cy="387.7637" r="13.5872" gradientTransform="matrix(1 0 0 -1 102.5 408)" gradientUnits="userSpaceOnUse">
+			<radialGradient id="SVGID_8_" cx="43.8989" cy="385.877" r="13.5872" gradientTransform="matrix(1 0 0 -1 102.5 408)" gradientUnits="userSpaceOnUse">
 			<stop  offset="0" style="stop-color:#01A760"/>
 			<stop  offset="1" style="stop-color:#018F4B"/>
 		</radialGradient>
-		<polyline fill="url(#SVGID_8_)" points="108.378,13.417 131.775,13.417 144.307,18.741 136.255,27.057 		"/>
-		<polyline fill="#B43328" points="128.841,18.756 144.325,18.756 133.93,29.514 114.956,29.514 		"/>
-		<polyline fill="#406FB5" points="114.956,29.514 126.938,29.514 126.938,46.524 114.956,46.524 		"/>
+		<polyline fill="url(#SVGID_8_)" points="128.435,15.304 151.832,15.304 164.363,20.628 156.312,28.944 		"/>
+		<polyline fill="#B43328" points="148.897,20.643 164.382,20.643 153.986,31.401 135.013,31.401 		"/>
+		<polyline fill="#406FB5" points="135.013,31.401 146.994,31.401 146.994,48.411 135.013,48.411 		"/>
 	</g>
-	<rect x="122.367" y="29.118" fill="none" width="43.604" height="17.803"/>
-	<text transform="matrix(1 0 0 1 129.0977 46.1396)" fill="#4E4E4E" font-family="'OpenSans-Extrabold'" font-size="19.8648">air</text>
-	<rect x="35.333" y="53.29" fill="none" width="120.033" height="8.541"/>
-	<text transform="matrix(1 0 0 1 24.4912 59.2471)" fill="#4E4E4E" font-family="'OpenSans-Semibold'" font-size="12">GDG Korea DevFair 2014</text>
+	<rect x="142.424" y="31.005" fill="none" width="43.604" height="17.803"/>
+	<text transform="matrix(1 0 0 1 149.1543 48.0264)" fill="#4E4E4E" font-family="'OpenSans-Extrabold'" font-size="19.8648">air</text>
+	<rect x="61.168" y="56.151" fill="none" width="120.033" height="8.541"/>
+	<text transform="matrix(1 0 0 1 10.9932 70.1079)" fill="#4E4E4E" font-family="'OpenSans-Semibold'" font-size="18">GDG Korea DevFair 2014</text>
 </g>
 </svg>
