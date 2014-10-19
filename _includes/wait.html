@@ -1,0 +1,26 @@
+<section id="wait" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.waitImage }});background-repeat: no-repeat;background-attachment: fixed;background-position: center center;background-size: cover; ">
+    <div class="content-wrapper">
+        <div class="visible-md visible-lg col-lg-10 col-lg-offset-1">
+            <div style="color:white;">{{ site.waitTitle }}</div>
+            <div class="well" style="background-color: rgba(0,0,0,0.5);color:white;">
+                <h4><span class="glyphicon glyphicon-bullhorn"> "</span>{{ site.waitMsg }}"</h4>
+
+                <br><br>
+                {% for sc in site.waitSchedule %}
+                <h4><b>{{ sc.date }}</b><span style="font-size:12pt;">(예정)</span> : {{ sc.msg }}</h4>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="visible-xs visible-sm col-lg-10 col-lg-offset-1">
+            <div style="color:white;">{{ site.waitTitle }}</div>
+            <div class="well" style="background-color: rgba(0,0,0,0.5);color:white;">
+                <span style="font-size: 20px;"><span class="glyphicon glyphicon-bullhorn"> "</span>{{ site.waitMsg }}"</span>
+
+                <br><br>
+                {% for sc in site.waitSchedule %}
+                <span style="font-size:20px;"><b>{{ sc.date }}</b><span style="font-size:8px;">(예정)</span> : {{ sc.msg }}</span>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
