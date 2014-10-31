@@ -33,11 +33,9 @@
   thumbnailUrl: MateuszHerych.jpg
   rockstar: true
   ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 6
   name: " "
@@ -51,7 +49,6 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 7
   name: " "
@@ -65,7 +62,6 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
 
 -
   id: 8
@@ -80,7 +76,6 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
 
 -
   id: 9
@@ -95,7 +90,6 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
 
 - 
   id: 10
@@ -110,4 +104,59 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+
+- 
+  id: 11
+  name: " "
+  surname: "이원제"
+  company: "company"
+  title: "개인용 영상통화 만들기 (GAE + WebRTC)"
+  bio:  "Hello World!"
+  thumbnailUrl: ValentynShybanov.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+
+- 
+  id: 12
+  name: " "
+  surname: "양찬석"
+  company: "company"
+  title: "From Holo to Material"
+  bio:  "Hello World!"
+  thumbnailUrl: ValentynShybanov.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+
+- 
+  id: 13
+  name: " "
+  surname: "김용욱"
+  company: "company"
+  title: "GO Bot 가지고 놀기"
+  bio:  "Hello World!"
+  thumbnailUrl: ValentynShybanov.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+
+- 
+  id: 14
+  name: " "
+  surname: "문현경"
+  company: "company"
+  title: "미정"
+  bio:  "Hello World!"
+  thumbnailUrl: ValentynShybanov.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
