@@ -21,7 +21,7 @@
   title: "인텔니뮤의 세션짱짱"
   description: "인텔은 외계인을 착취하는 나쁜 기업입니다 여러분"
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [1, 5]
   language: en
   complexity: "Beginner"
 -
@@ -29,7 +29,7 @@
   title: "GO! 이렇게 사용해보자"
   description: "GO 언어를 사용해 봅시다 여러분"
   subtype: presentation
-  speakers: [4]
+  speakers: [1]
   language: en
   complexity: "Expert"
 -
@@ -60,28 +60,25 @@
 
 -
   id: 201
-  title: "AngularJS 2.0 준비하세요"
+  title: "개인용 영상통화 만들기 (GAE + WebRTC)"
   description: "재도님 화이팅!"
   subtype: keynote
-  speakers: [4]
   language: ko
   complexity: "Beginner"
 
 -
   id: 301
-  title: "AngularJS 2.0 준비하세요"
+  title: "Polymer"
   description: "재도님 화이팅!"
   subtype: keynote
-  speakers: [4]
   language: ko
   complexity: "Beginner"
 
 -
   id: 401
-  title: "AngularJS 2.0 준비하세요"
+  title: "From Holo to Material"
   description: "재도님 화이팅!"
   subtype: keynote
-  speakers: [4]
   language: ko
   complexity: "Beginner"
 
