@@ -39,6 +39,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/call-for-speakers/", text: "용욱님화이팅!"}
  - {permalink: "/speakers/", text: "Speaker"}
+ - {permalink: "/schedule/", text: "schedule"}
 
 bottomNavigationLinks:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}

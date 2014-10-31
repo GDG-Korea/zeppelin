@@ -1,6 +1,6 @@
 -
-  id: 307
-  title: "Coffee Break"
+  id: 900
+  title: "점심식사"
   place: "Hall"
   service: true
 -
@@ -10,24 +10,24 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "행사 오리엔테이션"
+  description: "Description"
   subtype: workshop
   speakers: [3, 6]
   language: en
   complexity: "Intermediate"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
+  title: "인텔니뮤의 세션짱짱"
+  description: "인텔은 외계인을 착취하는 나쁜 기업입니다 여러분"
   subtype: presentation
   speakers: [4, 5]
   language: en
   complexity: "Beginner"
 -
   id: 003
-  title: "The world is your playground - go global with Google"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "GO! 이렇게 사용해보자"
+  description: "GO 언어를 사용해 봅시다 여러분"
   subtype: presentation
   speakers: [4]
   language: en
@@ -48,3 +48,5 @@
   speakers: [7]
   language: en
   complexity: "Expert"
+
+

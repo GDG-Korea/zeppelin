@@ -1,34 +1,36 @@
 - 
   id: 3
-  name: "박성재"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
+  name: " "
+  surname: "박성재"
+  company: "company"
+  title: "title"
+  bio: "Hello World!"
   thumbnailUrl: DawidOstrowski.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+  name: " "
+  surname: "고재도"
+  company: "company"
+  title: "AngularJS 2.0 준비하세요"
+  bio: "Hello World!"
   thumbnailUrl: DmytroDanylyk.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
+  name: " "
+  surname: "안세원"
+  company: "company"
+  title: "서버 없이 만들어보는 안드로이드 앱"
+  bio: "Hello World!"
   thumbnailUrl: MateuszHerych.jpg
   rockstar: true
   ribbon: 
@@ -39,11 +41,11 @@
     - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
+  name: " "
+  surname: "한상곤"
+  company: "company"
+  title: "Google App Engine 사용하기"
+  bio: "Hello world!"
   thumbnailUrl: RomanMazur.jpg
   rockstar: true
   ribbon:
@@ -53,11 +55,56 @@
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  name: " "
+  surname: "도창욱"
+  company: "company"
+  title: "Google App Engine 사용하기"
+  bio:  "Hello World!"
+  thumbnailUrl: ValentynShybanov.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 8
+  name: " "
+  surname: "남상균"
+  company: "company"
+  title: "JUnit4와 Robolectric을 이용한 안드로이드 단위 테스트"
+  bio:  "Hello World!"
+  thumbnailUrl: ValentynShybanov.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 9
+  name: " "
+  surname: "김대권"
+  company: "company"
+  title: "Kubernetes를 통한 오케스트레이션"
+  bio:  "Hello World!"
+  thumbnailUrl: ValentynShybanov.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+
+- 
+  id: 10
+  name: " "
+  surname: "장재휴"
+  company: "company"
+  title: "GO! 이렇게 사용해보자!"
+  bio:  "Hello World!"
   thumbnailUrl: ValentynShybanov.jpg
   rockstar: true
   ribbon:
