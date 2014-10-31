@@ -4,8 +4,8 @@
   place: "Hall"
   service: true
 -
-  id: 503
-  title: "Lunch Break"
+  id: 901
+  title: "행사마감"
   place: "Dining room"
   service: true
 -
@@ -53,32 +53,85 @@
   id: 101
   title: "AngularJS 2.0 준비하세요"
   description: "재도님 화이팅!"
-  subtype: keynote
+  subtype: secession
   speakers: [4]
   language: ko
   complexity: "Beginner"
 
 -
+  id: 102
+  title: "서버 없이 만들어보는 안드로이드 앱"
+  description: "재도님 화이팅"
+  subtype: secession
+
+-
+  id: 103
+  title: "Google App Engine 사용하기"
+  description: "한상곤님"
+  subtype: secession
+
+-
+  id: 104
+  title: "프론트엔드 개발자를 위한 크롬 성능 인자 이해하기"
+  description: "도창욱님"
+  subtype: secession
+
+-
+  id: 105
+  title: "JUnit4와 Robolectric을 이용한 안드로이드 단위 테스트"
+  description: "남상균님"
+  subtype: secession
+
+-
+  id: 106
+  title: "(Live) Build and run Golang Web server on Android.avi"
+  description: "박성재님"
+  subtype: secession
+
+-
+  id: 107
+  title: "Kubernetes를 통한 오케스트레이션"
+  description: "김대권님"
+  subtype: secession
+
+-
   id: 201
   title: "개인용 영상통화 만들기 (GAE + WebRTC)"
   description: "재도님 화이팅!"
-  subtype: keynote
+  subtype: codelab
   language: ko
   complexity: "Beginner"
+-
+  id: 202
+  title: "GO Bot 가지고 놀기"
+  description: "용욱님 화이팅!"
+  subtype: codelab
 
 -
   id: 301
   title: "Polymer"
   description: "재도님 화이팅!"
-  subtype: keynote
+  subtype: codelab
   language: ko
   complexity: "Beginner"
+
+-
+  id: 302
+  title: "주제 미정"
+  description: "문현경님"
+  subtype: codelab
 
 -
   id: 401
   title: "From Holo to Material"
   description: "재도님 화이팅!"
-  subtype: keynote
+  subtype: codelab
   language: ko
   complexity: "Beginner"
+
+-
+  id: 402
+  title: "미디어 관리 라이브러리 -  Glide"
+  description: "양찬석"
+  subtype: codelab
 

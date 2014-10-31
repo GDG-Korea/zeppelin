@@ -3,9 +3,7 @@
   dateReadable: "November 29"
   tracks: 
     - {title: "Session",  color: "#000000"}
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+
   timeslots:
     - {
     	startTime: "10:00",
@@ -27,8 +25,51 @@
         endTime: "13:00",
         sessionIds: [900]
     }
+  tracks: 
+    - {title: "Session",  color: "#000000"}
+    - {title: "Android", color: "#90be4e"}
+    - {title: "Web & Cloud", color: "#03a9f4"}
+    - {title: "Community", color: "#e91e63"}
+
+  timeslots:
     - {
         startTime: "13:00",
         endTime: "13:50",
         sessionIds: [101, 201, 301, 401]
+    }
+
+    - {
+        startTime: "13:50",
+        endTime: "14:40",
+        sessionIds: [102, 404, 404, 404]
+    }
+
+    - {
+        startTime: "14:40",
+        endTime: "15:30",
+        sessionIds: [103, 404, 404, 404]
+    }
+
+    - {
+        startTime: "15:30",
+        endTime: "16:20",
+        sessionIds: [104, 404, 404, 404]
+    }
+
+    - {
+        startTime: "16:20",
+        endTime: "17:10",
+        sessionIds: [105, 404, 404, 404]
+    }
+
+    - {
+        startTime: "17:10",
+        endTime: "18:00",
+        sessionIds: [106, 404, 404, 404]
+    }
+
+    - {
+        startTime: "18:00",
+        endTime: "18:40",
+        sessionIds: [107, 404, 404, 404]
     }
