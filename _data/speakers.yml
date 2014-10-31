@@ -5,7 +5,7 @@
   company: "company"
   title: "title"
   bio: "한동안 AOSP에 하악대다가 최근 들어서는 이동하기 언어를 맛보고 있는 뉴비 프로그래머입니다."
-  thumbnailUrl: DawidOstrowski.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}

@@ -21,7 +21,9 @@
                     {% for track in day.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
                     <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
-                        <h5 class="track-header-title">{{ track.title }}</h5>
+                        <h5 class="track-header-title">{{ track.type }}</h5>
+                        <h7>{{ track.title }} <h7> 
+
                     </div>
                     {% endfor %}
                     <div class="track-header-slot col-xs-12 visible-xs">
@@ -53,6 +55,7 @@
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                         <!-- <span class="slot-language">{{session.language | upcase}}</span> -->
+                                        <h7>{{ session.location }}</h7>
                                         <ul class="slot-speakers">
                                             {% for speaker in site.data.speakers %}
                                                 {% for session_speaker in session.speakers %}

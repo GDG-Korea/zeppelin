@@ -1,11 +1,11 @@
 - 
-  date: "2014-10-24"
+  date: "2014-11-29"
   dateReadable: "November 29"
   tracks: 
-    - {title: "Session",  color: "#000000"}
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "마루 180", type: "Session", color: "#000000"}
+    - {title: "hybrid, 마이크 임팩트",  type: "CodeLab", color: "#90be4e"}
+    - {title: "Web, 카페 여유 공간", type: "CodeLab", color: "#03a9f4"}
+    - {title: "Android, 헨델과 그레텔", type: "CodeLab", color: "#e91e63"}
 
   timeslots:
     - {
