@@ -12,8 +12,8 @@
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
 						<h4>{{ session.title }}</h4>
-						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
-						<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
+						<span class="theme-metadata"><span class="caption">개발언어: </span>{{ session.language }}</span>
+						<span class="theme-metadata"><span class="caption">난이도: </span>{{ session.complexity }}</span>
 						<p class="theme-description">{{ session.description }}</p>
 						<hr>
 						<div class="people-details">
@@ -25,8 +25,8 @@
 											<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
 										</div>
 										<div class="col-md-10 col-sm-10 details">
-											<p class="name">{{ speaker.name }} {{ speaker.surname }}
-												<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
+											<p class="name">{{ speaker.surname }}
+												<span class="position">{{ speaker.company }}</span>
 											</p>
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">

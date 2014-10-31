@@ -66,11 +66,11 @@
 -
   id: 106
   title: "AngularJS 2.0 준비하세요"
-  description: "재도님 화이팅!"
+  description: "AngularJS 2.0에 대한 내용을 미리 알아보는 시간을 가집니다."
   subtype: secession
   speakers: [4]
-  language: ko
-  complexity: "Beginner"
+  language: 자바스크립트
+  complexity: "중급"
 
 -
   id: 107
@@ -94,10 +94,11 @@
 
 -
   id: 301
-  title: "Polymer"
-  description: "재도님 화이팅!"
+  title: "Polymer: Your first application"
+  description: "Polymer의 주요 컨셉을 알아보고 간단한 소셜 네트워킹 서비스의 클라이언트 어플리케이션을 만들어봅니다."
   speakers: [4]
-  subtype: codelab
+  language: 자바스크립트 HTML
+  complexity: "초급"
 
 -
   id: 302

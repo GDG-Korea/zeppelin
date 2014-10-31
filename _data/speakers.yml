@@ -11,17 +11,18 @@
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 4
-  name: " "
+  name: "Jeado Ko"
   surname: "고재도"
-  company: "company"
+  company: "kt"
   title: "AngularJS 2.0 준비하세요"
-  bio: "Hello World!"
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
+  bio: "GDG Korea WebTech 운영자 <br> 전자정부프레임워크 커뮤니티 리더"
+  thumbnailUrl: JeadoKo.jpg
+  rockstar: false
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "GDG", title: "Google Developer Group Korea WebTech", url: "https://developers.google.com/groups/chapter/111126730890028720234/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+JeadoKo"}
+    - {name: "github", link: "https://github.com/jeado"}
 - 
   id: 5
   name: " "
@@ -149,7 +150,7 @@
 
 - 
   id: 14
-  name: " "
+  name: "Jimmy Moon"
   surname: "문현경"
   company: "company"
   title: "미정"
