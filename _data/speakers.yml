@@ -11,17 +11,18 @@
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 4
-  name: " "
+  name: "Jeado Ko"
   surname: "고재도"
-  company: "company"
+  company: "kt"
   title: "AngularJS 2.0 준비하세요"
-  bio: "Hello World!"
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
+  bio: "GDG Korea WebTech 운영자 <br> 전자정부프레임워크 커뮤니티 리더"
+  thumbnailUrl: JeadoKo.jpg
+  rockstar: false
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "GDG", title: "Google Developer Group Korea WebTech", url: "https://developers.google.com/groups/chapter/111126730890028720234/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+JeadoKo"}
+    - {name: "github", link: "https://github.com/jeado"}
 - 
   id: 5
   name: " "
@@ -106,17 +107,18 @@
 
 - 
   id: 11
-  name: " "
+  name: "Wonjae Lee"
   surname: "이원제"
-  company: "company"
+  company: "Veckon"
   title: "개인용 영상통화 만들기 (GAE + WebRTC)"
-  bio:  "Hello World!"
-  thumbnailUrl: ValentynShybanov.jpg
+  bio:  "현재 스타트업 Veckon의 CTO로 근무하고 있으며, GDG Seoul의 운영자로 활동하고 있습니다. 웹기술에 관심이 크고 특히 WebRTC에 관심이 큽니다. 개발자들을 만나고 떠드는 것을 즐기고 특히 같이 먹는 것을 좋아합니다."
+  thumbnailUrl: WonjaeLee.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG Seoul", title: "Google Developer Group Seoul", url: "https://developers.google.com/groups/chapter/116593433820963567116/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "google-plus", link: "https://google.com/+nurinamu"}
+    - {name: "facebook", link: "http://facebook.com/nurinamu"}
 
 - 
   id: 12
@@ -148,7 +150,7 @@
 
 - 
   id: 14
-  name: " "
+  name: "Jimmy Moon"
   surname: "문현경"
   company: "company"
   title: "미정"
