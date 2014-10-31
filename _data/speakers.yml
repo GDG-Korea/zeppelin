@@ -106,17 +106,18 @@
 
 - 
   id: 11
-  name: " "
+  name: "Wonjae Lee"
   surname: "이원제"
-  company: "company"
+  company: "Veckon"
   title: "개인용 영상통화 만들기 (GAE + WebRTC)"
-  bio:  "Hello World!"
-  thumbnailUrl: ValentynShybanov.jpg
+  bio:  "현재 스타트업 Veckon의 CTO로 근무하고 있으며, GDG Seoul의 운영자로 활동하고 있습니다. 웹기술에 관심이 크고 특히 WebRTC에 관심이 큽니다. 개발자들을 만나고 떠드는 것을 즐기고 특히 같이 먹는 것을 좋아합니다."
+  thumbnailUrl: WonjaeLee.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG Seoul", title: "Google Developer Group Seoul", url: "https://developers.google.com/groups/chapter/116593433820963567116/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "google-plus", link: "https://google.com/+nurinamu"}
+    - {name: "facebook", link: "http://facebook.com/nurinamu"}
 
 - 
   id: 12
