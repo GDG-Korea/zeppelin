@@ -30,7 +30,7 @@
   company: "company"
   title: "서버 없이 만들어보는 안드로이드 앱"
   bio: "Hello World!"
-  thumbnailUrl: MateuszHerych.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
@@ -43,7 +43,7 @@
   company: "company"
   title: "Google App Engine 사용하기"
   bio: "Hello world!"
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -56,7 +56,7 @@
   company: "company"
   title: "Google App Engine 사용하기"
   bio:  "Hello World!"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -70,7 +70,7 @@
   company: "company"
   title: "JUnit4와 Robolectric을 이용한 안드로이드 단위 테스트"
   bio:  "Hello World!"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -84,7 +84,7 @@
   company: "company"
   title: "Kubernetes를 통한 오케스트레이션"
   bio:  "Hello World!"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -98,7 +98,7 @@
   company: "company"
   title: "GO! 이렇게 사용해보자!"
   bio:  "Hello World!"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -127,7 +127,7 @@
   company: "company"
   title: "From Holo to Material"
   bio:  "Hello World!"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -141,7 +141,7 @@
   company: "company"
   title: "GO Bot 가지고 놀기"
   bio:  "Hello World!"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -155,7 +155,7 @@
   company: "company"
   title: "미정"
   bio:  "Hello World!"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: default.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}

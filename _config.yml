@@ -55,7 +55,7 @@ heroButtons:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # About Block
-aboutTitle: "DevFair에서는."
+aboutTitle: "DevFair에서는"
 aboutBlock:
  - {title: "Codelab", image: "workshop.jpg", text: "나는 개발자! 궁금했던 기술에 대하여 직접 코드로 배워보는 시간. 여러분의 궁금증을 해소시켜줄 튜터와 함께 액티브한 코딩을 해보며 즐기는 코드랩에 참여해보세요." }
  - {title: "Conference", image: "conference.jpg", text: "GDG에서 엄선한 세션들을 들어보세요. 정말 멋진 발표자분들의 멋진 발표. 듣기만 해도 지식도 쑥쑥, 영감도 쑥쑥!" }
@@ -84,7 +84,7 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "session_devfest.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "다른 Speaker 보기"
 
 # Location Block
 locationBlockTitle: "장소"
