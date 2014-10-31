@@ -11,8 +11,8 @@
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 4
-  name: "고재도"
-  surname: "Jeado Ko"
+  name: "Jeado Ko"
+  surname: "고재도"
   company: "kt"
   title: "AngularJS 2.0 준비하세요"
   bio: "GDG Korea WebTech 운영자 <br> 전자정부프레임워크 커뮤니티 리더"
@@ -149,7 +149,7 @@
 
 - 
   id: 14
-  name: " "
+  name: "Jimmy Moon"
   surname: "문현경"
   company: "company"
   title: "미정"
