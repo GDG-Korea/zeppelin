@@ -34,7 +34,7 @@
   complexity: "Expert"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
+  title: " "
   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   subtype: keynote
   speakers: [6]
@@ -49,4 +49,39 @@
   language: en
   complexity: "Expert"
 
+-
+  id: 101
+  title: "AngularJS 2.0 준비하세요"
+  description: "재도님 화이팅!"
+  subtype: keynote
+  speakers: [4]
+  language: ko
+  complexity: "Beginner"
+
+-
+  id: 201
+  title: "AngularJS 2.0 준비하세요"
+  description: "재도님 화이팅!"
+  subtype: keynote
+  speakers: [4]
+  language: ko
+  complexity: "Beginner"
+
+-
+  id: 301
+  title: "AngularJS 2.0 준비하세요"
+  description: "재도님 화이팅!"
+  subtype: keynote
+  speakers: [4]
+  language: ko
+  complexity: "Beginner"
+
+-
+  id: 401
+  title: "AngularJS 2.0 준비하세요"
+  description: "재도님 화이팅!"
+  subtype: keynote
+  speakers: [4]
+  language: ko
+  complexity: "Beginner"
 
