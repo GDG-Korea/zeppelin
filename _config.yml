@@ -64,9 +64,9 @@ aboutBlock:
 # Waiting
 waitImage: "judges.jpg"
 waitTitle: "<span style=\"font-size:80pt;background-color: rgba(0,0,0,0.5);\">\" 忍 \"</span> <h4 style=\"background-color: rgba(0,0,0,0.5);\">기다려주십시요.<h4>"
-waitMsg: "코드랩, 세션, 발표자, 참석신청 등이 속속 공개될 예정입니다."
+waitMsg: "참석신청이 곧 시작됩니다."
+waitOpen: "코드랩 / 세션 확인 : <a href=\"schedule\">확인하기</a>"
 waitSchedule:
- - {msg: "코드랩/세션 공개" , date: "2014.11.1"}
  - {msg: "참가 신청 시작" , date: "2014.11.11"}
 
 # Statistic Block
