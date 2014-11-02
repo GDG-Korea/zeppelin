@@ -3,12 +3,10 @@
   name: " "
   surname: "박성재"
   company: "company"
-  title: "title"
+  title: "(Live) Build and run Golang Web server on Android.avi"
   bio: "한동안 AOSP에 하악대다가 최근 들어서는 이동하기 언어를 맛보고 있는 뉴비 프로그래머입니다."
   thumbnailUrl: default.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 4
   name: "Jeado Ko"
@@ -29,39 +27,30 @@
   surname: "안세원"
   company: "company"
   title: "서버 없이 만들어보는 안드로이드 앱"
-  bio: "Hello World!"
+  bio: "다음카카오에서 열심히 앱을 만들고 있는 안드로이드 개발자 안세원입니다."
   thumbnailUrl: default.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
 - 
   id: 6
   name: " "
   surname: "한상곤"
   company: "company"
   title: "Google App Engine 사용하기"
-  bio: "Hello world!"
+  bio: "구글 컴퓨터 엔진과 파이썬을 사용해서 이것저것 개발하고 있으며, 취미로 영상처리 프로그램을 손대고 있습니다."
   thumbnailUrl: default.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+
 - 
   id: 7
   name: " "
   surname: "도창욱"
   company: "company"
   title: "Google App Engine 사용하기"
-  bio:  "Hello World!"
+  bio:  "GDG Korea WebTech 운영자이면서 프론트엔드 개발을 하고 있지 않은 보통 개발자, 웹 기술 특히 HTML5와 브라우저 구현에 대한 관심을 가지고 있습니다.  작년부터 HTML5Rocks와 Web Fundamentals 번역을 통해 구글 번역기와 경쟁하고 있으며 HTML5Rocks/KO 블로그 운영 등을 하고 있습니다."
   thumbnailUrl: default.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 
 -
   id: 8
@@ -69,13 +58,11 @@
   surname: "남상균"
   company: "company"
   title: "JUnit4와 Robolectric을 이용한 안드로이드 단위 테스트"
-  bio:  "Hello World!"
+  bio:  '<p> 현, 엔비티파트너스 수석개발자 </p> <p>현재 엔비티파트너스에서 수석개발자로 “캐시슬라이드”라는 모바일 광고 플랫폼 개발을 주도하고 있습니다. 이외에도 남상랩스라는 개발그룹을 통해 다양한 경험을 공유하려 노력하고 있습니다.</p> '
   thumbnailUrl: default.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sangsoonam"}
 
 -
   id: 9
@@ -83,13 +70,15 @@
   surname: "김대권"
   company: "company"
   title: "Kubernetes를 통한 오케스트레이션"
-  bio:  "Hello World!"
+  bio:  '안녕하세요. 김대권이라고 합니다. 주로 루비 프로그래밍 언어를 사용하며, 현재는 SmartStudy에서 서버 개발자로 일하고 있습니다. 이 외에 Remotty라는 프로그래밍 스터디 그룹의 일원으로 있으며, Remotty 멤버들과 함께 현재 <a herf="http://docker.co.kr">Docker Korea</a>를 운영하고 있습니다. '
   thumbnailUrl: default.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://nacyot.com"}
+    - {name: "site", link: "http://blog.nacyot.com"}
+    - {name: "github", link: "https://github.com/nacyot"}
 
 - 
   id: 10
@@ -97,7 +86,7 @@
   surname: "장재휴"
   company: "company"
   title: "GO! 이렇게 사용해보자!"
-  bio:  "Hello World!"
+  bio:  '<p>2006.06 ~ 2014.03 이랜드 시스템스 </p> <p>2014.04 ~ 현재        퍼플웍스 </p> <p>대부분의 경력 기간동안 .NET/C# 환경에서 SI 프로젝트를 진행하면서 기업용 솔루션의 아키텍처에 대한 경험을 쌓았고, 지금은 루비 언어를 사용하여 웹서버 개발을 주로 하고 있습니다. 개발 커뮤니티에서 만난 사람들과 <a href="http://blog.remotty.com/">Remotty</a>라는 그룹을 만들어서 함께 즐거운 개발 생활을 하고 있습니다.</p>'
   thumbnailUrl: default.jpg
   rockstar: true
   ribbon:
