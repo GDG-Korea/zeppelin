@@ -23,31 +23,32 @@
     - {name: "github", link: "https://github.com/jeado"}
 - 
   id: 5
-  name: " "
+  name: "Sewon Ann"
   surname: "안세원"
-  company: "company"
+  company: "다음카카오"
   title: "서버 없이 만들어보는 안드로이드 앱"
   bio: "다음카카오에서 열심히 앱을 만들고 있는 안드로이드 개발자 안세원입니다."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: SewonAnn.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group Korea Android", url: "https://plus.google.com/+SewonAnn"}
 - 
   id: 6
-  name: " "
+  name: "Sangkon Han"
   surname: "한상곤"
-  company: "company"
+  company: " "
   title: "Google App Engine 사용하기"
   bio: "구글 컴퓨터 엔진과 파이썬을 사용해서 이것저것 개발하고 있으며, 취미로 영상처리 프로그램을 손대고 있습니다."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: SangkonHan.jpg
   rockstar: true
 
 - 
   id: 7
-  name: " "
+  name: "Changwook Doh"
   surname: "도창욱"
-  company: "company"
-  title: "Google App Engine 사용하기"
+  company: "GDG Web Tech"
   bio:  "GDG Korea WebTech 운영자이면서 프론트엔드 개발을 하고 있지 않은 보통 개발자, 웹 기술 특히 HTML5와 브라우저 구현에 대한 관심을 가지고 있습니다.  작년부터 HTML5Rocks와 Web Fundamentals 번역을 통해 구글 번역기와 경쟁하고 있으며 HTML5Rocks/KO 블로그 운영 등을 하고 있습니다."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: ChangwookDoh.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -56,13 +57,13 @@
   id: 8
   name: " "
   surname: "남상균"
-  company: "company"
-  title: "JUnit4와 Robolectric을 이용한 안드로이드 단위 테스트"
-  bio:  '<p> 현, 엔비티파트너스 수석개발자 </p> <p>현재 엔비티파트너스에서 수석개발자로 “캐시슬라이드”라는 모바일 광고 플랫폼 개발을 주도하고 있습니다. 이외에도 남상랩스라는 개발그룹을 통해 다양한 경험을 공유하려 노력하고 있습니다.</p> '
-  thumbnailUrl: default.jpg
+  company: "엔비티파트너스"
+  bio:  '현재 엔비티파트너스에서 소프트웨어 엔지니어로 “캐시슬라이드”라는 모바일 광고 플랫폼 개발하고 있습니다. 모바일과 프론트엔드에 관심을 가지고 Namsang Labs라는 그룹을 통해 다양한 경험을 공유하려 노력하고 있습니다.'
+  thumbnailUrl: SangkyoonNam.png
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sangsoonam"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sangkyoonnam"}
+    - {name: "github", link: " https://github.com/sangkyoonnam"}
 
 -
   id: 9
@@ -91,8 +92,6 @@
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 
 - 
   id: 11
@@ -128,9 +127,8 @@
   name: " "
   surname: "김용욱"
   company: "company"
-  title: "GO Bot 가지고 놀기"
   bio:  "Hello World!"
-  thumbnailUrl: default.jpg
+  thumbnailUrl: YongUkKim.png
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -142,11 +140,8 @@
   name: "Jimmy Moon"
   surname: "문현경"
   company: "company"
-  title: "미정"
   bio:  "Hello World!"
   thumbnailUrl: default.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
