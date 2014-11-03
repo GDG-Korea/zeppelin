@@ -41,19 +41,23 @@
 
 -
   id: 102
-  title: "서버 없이 만들어보는 안드로이드 앱"
-  description: "안세원님" 
+  title: "백 엔드 서버 구축없이 만드는 모바일 앱"
+  description: "Google Apps Script, Parse, Disqus 등의 서비스를 이용해 간단한 모바일 앱 용 백 엔드 서버를 만드는 방법을 알아봅니다."
   location: "마루180"
   speakers: [5]
+  language: Javascript, Java
+  complexity: "초급"
   subtype: secession
 
 -
   id: 103
-  title: "Google App Engine 사용하기"
-  description: "한상곤님"
+  title: "Google App Engine 사용 가이드"
+  description: '- Google App Engine을 처음 접하는 사용자들을 위한 안내서를 제공해 드리고자 합니다.<br>- 너무 다양한 기술의 향연속에서 초보자가 꼭 알아야 하는 내용을 알아봅시다!<br>- 가볍게 오셔서, 즐거운 Google App Engine의 세계에 빠져보세요!'
   location: "마루180"
   speakers: [6]
   subtype: secession
+  language: python
+  complexity: "초급"
 
 -
   id: 104
@@ -66,10 +70,11 @@
 -
   id: 105
   title: "프론트엔드 개발자를 위한 크롬 성능 인자 이해하기"
-  description: "도창욱님"
+  description: "성능은 어느 디바이스와 소프트웨어에서도 항상 이슈 사항입니다. 또한 최적화를 위한 첫걸음은 어떻게 동작하는가에 대한 이해로부터 출발하며 이는 네이티브 개발자에게만이 아니라 웹 개발자에게도 해당합니다. 이 세션에서는 프론트엔드의 관점에서 웹브라우저의 렌더링 동작을 어떻게 이해하고 활용할지에 대해 간략하게 살펴보고자 합니다."
   location: "마루180"
   speakers: [7]
   subtype: secession
+  complexity: "중급 - 프론트엔드 초급 및 중급 개발자"
 
 -
   id: 106
@@ -84,10 +89,12 @@
 -
   id: 107
   title: "JUnit4와 Robolectric을 이용한 안드로이드 단위 테스트"
-  description: "남상균님"
+  description: "Android 코드를 일반 JVM에서 테스트할 수 있는 Roboletric 프레임워크로 JUnit 4 Annotation과 함께 단순하고 간결한 코드로 빠르게 단위 테스트를 하는 방법을 이야기해 봅니다."
   location: "마루180"
   speakers: [8]
   subtype: secession
+  language: Java
+  complexity: "중급"
 
 -
   id: 201
@@ -101,10 +108,12 @@
 -
   id: 202
   title: "GO Bot 가지고 놀기"
-  description: "용욱님 화이팅!"
+  description: "GO 언어의 기초적인 사용법을 익히고 이미지 처리, 채팅 자동화 등을 연동해보는 것을 목표로 한다."
   location: "마이크 임팩트 스튜디오"
   speakers: [13]
   subtype: codelab
+  language: GO Programming Language
+  complexity: "초급"
 
 -
   id: 301
@@ -117,11 +126,13 @@
 
 -
   id: 302
-  title: "주제 미정"
+  title: "Polymer: Build a Material Design Mobile Web App with Paper Elements"
   description: "문현경님"
   location: "카페 공간 여유"
   speakers: [14]
   subtype: codelab
+  language: "Chrome Dev Editor, Material design, Polymer, Web Components"
+  complxity: "중급"
 
 -
   id: 401
