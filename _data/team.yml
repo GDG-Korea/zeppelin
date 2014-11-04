@@ -1,60 +1,153 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "이원제"
+  surname: "Wonjae Lee"
+  title: "VECKON"
+  thumbnailUrl: WonjaeLee.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+nurinamu"}
+    # - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    # - {name: "github", link: "https://github.com/zasadnyy"}
+    # - {name: "site", link: "http://zasadnyy.com/"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "도창욱"
+  surname: "ChangwookDoh"
+  title: "SK Planet"
+  thumbnailUrl: ChangwookDoh.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+ChangwookDoh"}
+    # - {name: "github", link: "https://github.com/ozasadnyy"}
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "김종찬"
+  surname: "Jongchan Kim"
+  title: "GDG Android"
+  thumbnailUrl: jongchankim.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+JongchanKim"}
+    # - {name: "twitter", link: "https://twitter.com/p1f"}
+    # - {name: "site", link: "http://andrusiv.com/"}
+-
+  id: 3
+  name: "김용욱"
+  surname: "Younguk Kim"
+  title: "Lazybee"
+  thumbnailUrl: dalinaum.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+LeonardoYongUkKim"}
+    # - {name: "twitter", link: "https://twitter.com/p1f"}
+    # - {name: "site", link: "http://andrusiv.com/"}
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+  name: "임원균"
+  surname: "Wonkyun Lim"
+  title: "GDG SSU"
+  thumbnailUrl: wonkyunlim.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+WonkyunLim"}
+    # - {name: "twitter", link: "https://twitter.com/p1f"}
+    # - {name: "site", link: "http://andrusiv.com/"}
+-
+  id: 5
+  name: "유승현"
+  surname: "Seunghyun Yu"
+  title: "GDG Incheon"
+  thumbnailUrl: SeunghyunYu.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/+SeunghyunYu"}
+  - {name: "facebook", link: "https://www.facebook.com/mark91hyun"}
+  - {name: "twitter", link: "https://twitter.com/LaunchingDream"}
+  - {name: "site", link: "http://launchingdream.blogspot.kr"}
+
+-
+  id: 6
+  name: "김주아"
+  surname: "Jua Kim"
+  title: "다음카카오"
+  thumbnailUrl: juakim.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+JuaKim"}
+    # - {name: "twitter", link: "https://twitter.com/p1f"}
+    # - {name: "site", link: "http://andrusiv.com/"}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "김나연"
+  surname: "Nayeon Kim"
+  title: "GDG SSU"
+  thumbnailUrl: nayeonkim.png
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/116357255805228592657"}
+    # - {name: "twitter", link: "https://twitter.com/p1f"}
+    # - {name: "site", link: "http://andrusiv.com/"}
+-
+  id: 8
+  name: "고재도"
+  surname: "Jeado Ko"
+  title: "KT"
+  thumbnailUrl: JeadoKo.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+JeadoKo"}
+    # - {name: "twitter", link: "https://twitter.com/p1f"}
+    # - {name: "site", link: "http://andrusiv.com/"}
+-
+  id: 9
+  name: "김태호"
+  surname: "Taeho Kim"
+  title: "Lezhin Entertainment"
+  thumbnailUrl: taehokim.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+TaehoKim"}
+    # - {name: "twitter", link: "https://twitter.com/p1f"}
+    # - {name: "site", link: "http://andrusiv.com/"}
+-
+  id: 10
+  name: "양찬석"
+  surname: "Chansuk Yang"
+  title: "Google"
+  thumbnailUrl: chansuk.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+ChansukYang"}
+    # - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    # - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 11
+  name: "김수지"
+  surname: "Suzy Kim"
+  title: "Google"
+  thumbnailUrl: suzy.jpg
+  subTeam: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/115123365216726962876"}
+    # - {name: "site", link: "http://olostan.name/"}
