@@ -1,23 +1,20 @@
 - 
   id: 3
-  name: " "
+  name: "SeongJae Park"
   surname: "박성재"
-  company: "company"
-  title: "(Live) Build and run Golang Web server on Android.avi"
   bio: "한동안 AOSP에 하악대다가 최근 들어서는 이동하기 언어를 맛보고 있는 뉴비 프로그래머입니다."
-  thumbnailUrl: default.jpg
+  thumbnailUrl: SeongjaePark.jpeg
   rockstar: true
 - 
   id: 4
   name: "Jeado Ko"
   surname: "고재도"
   company: "kt"
-  title: "AngularJS 2.0 준비하세요"
   bio: "GDG Korea WebTech 운영자 <br> 전자정부프레임워크 커뮤니티 리더"
   thumbnailUrl: JeadoKo.jpg
   rockstar: false
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group Korea WebTech", url: "https://developers.google.com/groups/chapter/111126730890028720234/"}
+    - {abbr: "GDG", title: "Google Developer Group Korea WebTech", url: "https://plus.google.com/communities/109067040035659120428"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JeadoKo"}
     - {name: "github", link: "https://github.com/jeado"}
@@ -26,7 +23,6 @@
   name: "Sewon Ann"
   surname: "안세원"
   company: "다음카카오"
-  title: "서버 없이 만들어보는 안드로이드 앱"
   bio: "다음카카오에서 열심히 앱을 만들고 있는 안드로이드 개발자 안세원입니다."
   thumbnailUrl: SewonAnn.jpg
   rockstar: true
@@ -51,7 +47,7 @@
   thumbnailUrl: ChangwookDoh.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG", title: "Google Developer Group Web Tech", url: "https://plus.google.com/communities/109067040035659120428"}
 
 -
   id: 8
@@ -69,79 +65,77 @@
   id: 9
   name: " "
   surname: "김대권"
-  company: "company"
-  title: "Kubernetes를 통한 오케스트레이션"
-  bio:  '안녕하세요. 김대권이라고 합니다. 주로 루비 프로그래밍 언어를 사용하며, 현재는 SmartStudy에서 서버 개발자로 일하고 있습니다. 이 외에 Remotty라는 프로그래밍 스터디 그룹의 일원으로 있으며, Remotty 멤버들과 함께 현재 <a herf="http://docker.co.kr">Docker Korea</a>를 운영하고 있습니다. '
+  bio:  '안녕하세요. 김대권이라고 합니다. 주로 루비 프로그래밍 언어를 사용하며, 현재는 SmartStudy에서 서버 개발자로 일하고 있습니다. 이 외에 Remotty라는 프로그래밍 스터디 그룹의 일원으로 있으며, Remotty 멤버들과 함께 현재 <a href="http://docker.co.kr">Docker Korea</a>를 운영하고 있습니다. '
   thumbnailUrl: default.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
+  social:
     - {name: "site", link: "http://nacyot.com"}
     - {name: "site", link: "http://blog.nacyot.com"}
     - {name: "github", link: "https://github.com/nacyot"}
 
 - 
   id: 10
-  name: " "
+  name: "Jaehue Jang"
   surname: "장재휴"
-  company: "company"
-  title: "GO! 이렇게 사용해보자!"
-  bio:  '<p>2006.06 ~ 2014.03 이랜드 시스템스 </p> <p>2014.04 ~ 현재        퍼플웍스 </p> <p>대부분의 경력 기간동안 .NET/C# 환경에서 SI 프로젝트를 진행하면서 기업용 솔루션의 아키텍처에 대한 경험을 쌓았고, 지금은 루비 언어를 사용하여 웹서버 개발을 주로 하고 있습니다. 개발 커뮤니티에서 만난 사람들과 <a href="http://blog.remotty.com/">Remotty</a>라는 그룹을 만들어서 함께 즐거운 개발 생활을 하고 있습니다.</p>'
-  thumbnailUrl: default.jpg
+  company: "퍼플웍스"
+  bio: '<p>현재 퍼플웍스에서 루비 언어를 사용하여 웹서버 개발을 주로 하고있습니다.</p><p>개발 커뮤니티에서 만난 사람들과 <a href="http://blog.remotty.com">Remotty</a>라는 그룹을 만들어서 함께 즐거운 개발 생활을 하고 있습니다.</p><p>최근 <a href="http://docker.co.kr">Docker Korea</a> 활동에도 참여하고 있습니다.</p>'
+  thumbnailUrl: JaehueJang.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
 
 - 
   id: 11
   name: "Wonjae Lee"
   surname: "이원제"
   company: "Veckon"
-  title: "개인용 영상통화 만들기 (GAE + WebRTC)"
   bio:  "현재 스타트업 Veckon의 CTO로 근무하고 있으며, GDG Seoul의 운영자로 활동하고 있습니다. 웹기술에 관심이 크고 특히 WebRTC에 관심이 큽니다. 개발자들을 만나고 떠드는 것을 즐기고 특히 같이 먹는 것을 좋아합니다."
   thumbnailUrl: WonjaeLee.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG Seoul", title: "Google Developer Group Seoul", url: "https://developers.google.com/groups/chapter/116593433820963567116/"}
+    - {abbr: "GDG", title: "Google Developer Group Seoul", url: "https://developers.google.com/groups/chapter/116593433820963567116/"}
   social: 
     - {name: "google-plus", link: "https://google.com/+nurinamu"}
     - {name: "facebook", link: "http://facebook.com/nurinamu"}
 
 - 
   id: 12
-  name: " "
+  name: "Chansuk Yang"
   surname: "양찬석"
-  company: "company"
-  title: "From Holo to Material"
-  bio:  "Hello World!"
-  thumbnailUrl: default.jpg
+  company: "Google Korea"
+  bio:  "안녕하세요 구글코리아의 양찬석입니다."
+  thumbnailUrl: ChansukYang.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "Google", title: "Google Korea" }
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "google-plus", link: "https://plus.google.com/+ChansukYang/"}
 
 - 
   id: 13
-  name: " "
+  name: "YongUk Kim "
   surname: "김용욱"
-  company: "company"
-  bio:  "Hello World!"
+  bio:  "안녕하세요 김용욱입니다."
   thumbnailUrl: YongUkKim.png
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG", title: "Google Developer Group Korea Android", url: "https://plus.google.com/communities/100903743067544956282"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "google-plus", link: "https://plus.google.com/+LeonardoYongUkKim/"}
 
 - 
   id: 14
   name: "Jimmy Moon"
   surname: "문현경"
-  company: "company"
-  bio:  "Hello World!"
-  thumbnailUrl: default.jpg
+  bio:  "안녕하세요 문현경입니다."
+  thumbnailUrl: JimmyMoon.jpeg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+
+-
+  id: 15
+  name: "Jackie Lee"
+  surname: "이진용"
+  company: "Intel Korea"
+  bio: "인텔코리아의 이진용입니다."
+  thumbnailUrl: JackieLee.jpg
+  rockstar: false
