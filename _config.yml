@@ -39,6 +39,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speaker"}
  - {permalink: "/schedule/", text: "schedule"}
+ - {permalink: "/team/", text: "Team"}
+
 
 bottomNavigationLinks:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -222,7 +224,11 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "GDG DevFair팀이 요정이란 이야기가 있습니다.<br/>
+ 24시간 언제 어디에서나 커뮤니티에 기여하는 그들이 사람일리가 없다는 이야기지요. 다양한 기술 영역에서 능숙 능란하게 다룰 수 있는 사람을 구인하는 것이 말이 안된다는 지적도 있었습니다. 혹자는 이들이 구글이 만든 인공지능이나 보스턴 다이나믹이 만든 로봇이 아니냐는 의문을 품었습니다.<br/>
+ 그들은 요정일까요? 인공지능일까요? 아니면 로봇일까요? <br/>
+ GDG DevFair 2014 행사장에서 의문을 풀어주십시요. 의문이 풀리지 않더라도 행사를 위해 고생한 그들에게 박수를 부탁드립니다.<br/>
+(요약 : 이번 GDG Devfair 2014 행사를 위해 수고해주신 분들 입니다.)"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
