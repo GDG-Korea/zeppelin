@@ -16,20 +16,23 @@
   subtype: secession
 -
   id: 002
-  title: "인텔 후원사 세션입니다."
-  description: "인텔 후원사 세션입니다. - 내용입력예정"
+  title: "안드로이드 위한 인텔 플랫폼 소개 및 게임 최적화를 위한 GPA 활용"
+  description: "1. 안드로이드를 위한 인텔 플랫폼 소개 <br>2. 인텔 플랫폼에서 안드로이드 기반의 게임 및 관련 툴 소개<br>3. 인텔 플랫폼에서 Unity를 이용한 게임 개발 방법 및 성능 소개"
   location: "마루180"
+  speakers: [15]
   subtype: secession
+  language: "없음"
+  complexity: "초급"
 
 -
   id: 003
-  title: "GO! 이렇게 사용해보자"
-  description: "GO 언어를 사용해 봅시다 여러분"
+  title: "Introduction to Go"
+  description: 'Go 언어의 특징을 OOP와 Concurrency처리 관점에서 살펴봅니다.<br>그리고 최근 진행한 프로젝트에서 Go를 통해 어떻게 성능을 개선 할 수 있었는지 소개합니다.<br> * Go 언어를 처음 접하시는 분은, "A tour of Go"를 한번 훑어보고 오시면 발표내용 이해에 도움이 될 것 같습니다.^^<br> (en: <a href="http://tour.golang.org">http://tour.golang.org</a> / ko: <a href="http://go-tour-kr.appspot.com">http://go-tour-kr.appspot.com</a>)'
   location: "마루180"
   subtype: secession
   speakers: [10]
-  language: en
-  complexity: "Expert"
+  language: Go
+  complexity: "중"
 
 -
   id: 101
@@ -62,10 +65,12 @@
 -
   id: 104
   title: "(Live) Build and run Golang Web server on Android.avi"
-  description: "박성재님"
+  description: "이동하기 언어(golang)의 개요를 짧게 소개하고, golang 으로 웹서버 프로그램을 작성해 안드로이드에서 돌리는 방법을 라이브로 시연합니다."
   location: "마루180"
   speakers: [3]
   subtype: secession
+  language: Go, Java
+  complexity: "중급"
 
 -
   id: 105
@@ -141,6 +146,8 @@
   location: "헨델과 그레텔"
   speakers: [12]
   subtype: codelab
+  language: Java, Android(ICS이상 디바이스 필요)
+  complexity: "중급(안드로이드 앱 개발 경험 필요)"
 
 -
   id: 402
@@ -149,4 +156,6 @@
   location: "헨델과 그레텔"
   speakers: [12]
   subtype: codelab
+  language: Java, Android(ICS이상 디바이스 필요)
+  complexity: "중급(안드로이드 앱 개발 경험 필요)"
 
