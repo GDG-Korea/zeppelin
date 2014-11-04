@@ -55,7 +55,7 @@
   name: "임원균"
   surname: "Wonkyun Lim"
   title: "GDG SSU"
-  thumbnailUrl: WonkyunLim.jpg
+  thumbnailUrl: wonkyunlim.jpg
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
