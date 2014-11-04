@@ -55,13 +55,13 @@
   name: "임원균"
   surname: "Wonkyun Lim"
   title: "GDG SSU"
-  thumbnailUrl: wonkyunlim.jpg
+  thumbnailUrl: WonkyunLim.jpg
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+WonkyunLim"}
-    # - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "facebook", link: "https://www.facebook.com/rika0505"}
     # - {name: "site", link: "http://andrusiv.com/"}
 -
   id: 5
