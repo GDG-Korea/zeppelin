@@ -122,12 +122,14 @@
   name: "김태호"
   surname: "Taeho Kim"
   title: "Lezhin Entertainment"
-  thumbnailUrl: taehokim.jpg
+  thumbnailUrl: taehokim.png
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+TaehoKim"}
+    - {name: "github", link: "https://github.com/kunny"}
+    - {name: "site", link: "http://androidhuman.com"}
     # - {name: "twitter", link: "https://twitter.com/p1f"}
     # - {name: "site", link: "http://andrusiv.com/"}
 -
