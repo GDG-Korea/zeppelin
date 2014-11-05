@@ -35,8 +35,8 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+JongchanKim"}
-    # - {name: "twitter", link: "https://twitter.com/p1f"}
-    # - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "facebook", link: "https://www.facebook.com/flashilver"}
+    - {name: "github", link: "hhttps://github.com/FlaShilver"}
 -
   id: 3
   name: "김용욱"
