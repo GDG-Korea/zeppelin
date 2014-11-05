@@ -4,6 +4,11 @@
   place: "점심식사"
   service: true
 -
+  id: 902
+  title: "점심 식사"
+  location: "점심 식사"
+  description: "점심 시간입니다. 점심 식사는 따로 제공되지 않습니다."
+-
   id: 901
   title: "행사마감"
   place: "행사마감"
@@ -11,7 +16,7 @@
 -
   id: 001
   title: "행사 오리엔테이션"
-  description: "Description"
+  description: "행사에 오신 여러분들을 환영합니다! 행사에 대한 간략한 설명과 안내 사항을 전달하는 자리입니다."
   location: "마루180"
   subtype: secession
 -
