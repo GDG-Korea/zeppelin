@@ -99,7 +99,7 @@
 -
   id: 107
   title: "JUnit4와 Robolectric을 이용한 안드로이드 단위 테스트"
-  description: "Android 코드를 일반 JVM에서 테스트할 수 있는 Roboletric 프레임워크로 JUnit 4 Annotation과 함께 단순하고 간결한 코드로 빠르게 단위 테스트를 하는 방법을 이야기해 봅니다."
+  description: "Android 코드를 일반 JVM에서 테스트할 수 있는 Roboletric 프레임워크와 JUnit 4 Annotation을 통해 단순하고 간결한 코드로 빠르게 단위 테스트를 하는 방법을 논의해 봅니다."
   location: "마루180"
   speakers: [8]
   subtype: secession

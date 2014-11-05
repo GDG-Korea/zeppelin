@@ -51,10 +51,10 @@
 
 -
   id: 8
-  name: " "
+  name: "Sangkyoon Nam"
   surname: "남상균"
   company: "엔비티파트너스"
-  bio:  '현재 엔비티파트너스에서 소프트웨어 엔지니어로 “캐시슬라이드”라는 모바일 광고 플랫폼 개발하고 있습니다. 모바일과 프론트엔드에 관심을 가지고 Namsang Labs라는 그룹을 통해 다양한 경험을 공유하려 노력하고 있습니다.'
+  bio:  '현재 엔비티파트너스에서 소프트웨어 엔지니어로 “캐시슬라이드”라는 모바일 광고 플랫폼 개발하고 있습니다. 모바일과 프론트엔드에 관심을 가지고 <a href="http://namsang.org">남상랩스</a>라는 그룹을 통해 다양한 경험을 공유하려 노력하고 있습니다.'
   thumbnailUrl: SangkyoonNam.png
   rockstar: true
   social: 
