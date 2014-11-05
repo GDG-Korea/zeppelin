@@ -28,7 +28,7 @@
   id: 2
   name: "김종찬"
   surname: "Jongchan Kim"
-  title: "GDG Android"
+  title: "GDG Korea Android"
   thumbnailUrl: jongchankim.jpg
   team: true
   ribbon:
@@ -40,8 +40,8 @@
 -
   id: 3
   name: "김용욱"
-  surname: "Younguk Kim"
-  title: "Lazybee"
+  surname: "Leonardo YongUk Kim"
+  title: "GDG Korea Android, Feeling Sunday and LazyBee"
   thumbnailUrl: dalinaum.jpg
   team: true
   ribbon:
