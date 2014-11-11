@@ -25,9 +25,9 @@ organizerLink: "https://plus.google.com/103710008251066466508"
 # Head
 metaKeywords: "event, gdg, devfair, google, programming, android, chrome, developers, korea"
 twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/dev_logo.jpg"
+socialImageSrcTwitter: "/img/seo/dev_logo.jpg"
+socialImageSrcFacebook: "/img/seo/dev_logo.jpg"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
