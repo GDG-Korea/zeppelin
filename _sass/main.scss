@@ -41,3 +41,11 @@
 @import "partials/judges";
 @import "partials/prizes";
 @import "partials/hackathon-location";
+
+* {
+  -webkit-transform: translatez(0);
+  -moz-transform: translatez(0);
+  -ms-transform: translatez(0);
+  -o-transform: translatez(0);
+  transform: translatez(0);
+}
