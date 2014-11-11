@@ -106,10 +106,10 @@ mapMobileCenterCoordinates: "37.4953765, 127.0380564"
 
 # Venue Block
 venueBlockTitle: "공간"
-venueBigImage: "maru_0.png"
-venueSmallImage1: "maru_1.png"
-venueSmallImage2: "maru_2.png"
-venueSmallImage3: "maru_3.png"
+venueBigImage: "maru_0.jpg"
+venueSmallImage1: "maru_1.jpg"
+venueSmallImage2: "maru_2.jpg"
+venueSmallImage3: "maru_3.jpg"
 venueTitle: "마루180"
 venueFeatures: ["기술 세미나 진행", "깔끔하고 모던한 실내 인테리어", "스타트업들을 위한 공유 공간"]
 
