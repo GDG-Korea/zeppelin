@@ -9,7 +9,7 @@
 #  elements:
 #    - {name: "GDG Seoul", description: "GDG Seoul - 서울지역 개발자 모임", link: "https://plus.google.com/communities/112307379446393675214", imageUrl: "GDG-Seoul.png"}
 #    - {name: "GDG Incheon", description: "GDG Incheon - 인천지역 개발자 모임", link: "https://plus.google.com/communities/104783014618153871181", imageUrl: "GDG-Incheon.jpg"}
-#    - {name: "GDG Korea Android", description: "GDG Korea Android - 안드로이드 개발자 모임", link: "https://plus.google.com/communities/100903743067544956282", imageUrl: "GDG-Korea-Android.png"}
+#    - {name: "GDG Korea Android", description: "GDG Korea Android - 안드로이드 개발자 모임", link: "https://plus.google.com/communities/100903743067544956282", imageUrl: "GDG-Korea-Android.jpg"}
 #    - {name: "GDG Korea WebTech", description: "GDG Korea WebTech - 웹기술 개발자 모임", link: "https://plus.google.com/communities/109067040035659120428", imageUrl: "GDG-web.jpg"}
 #    - {name: "GDG SSU", description: "GDG SSU - 숭실대학교 모임", link: "https://plus.google.com/communities/101463090584658665422", imageUrl: "GDG-SSU.png"}
 #    - {name: "Veckon", description: "Veckon - 영상통화의 미래는 Veckon!", link: "http://www.veckon.com", imageUrl: "veckon.png"}
