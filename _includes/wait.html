@@ -6,7 +6,7 @@
                 <h4><span class="glyphicon glyphicon-bullhorn"> "</span>{{ site.waitMsg }}"</h4>
 
                 <br><br>
-                <h4>{{ site.waitOpen }}"</h4>
+                <h4>{{ site.waitOpen }}</h4>
                 <br>
                 {% for sc in site.waitSchedule %}
                 <h4><b>{{ sc.date }}</b><span style="font-size:12pt;">(예정)</span> : {{ sc.msg }}</h4>
@@ -20,7 +20,7 @@
                 <span style="font-size: 20px;"><span class="glyphicon glyphicon-bullhorn"> "</span>{{ site.waitMsg }}"</span>
 
                 <br><br>
-                <span style="font-size: 20px;">{{ site.waitOpen }}"</span>
+                <span style="font-size: 20px;">{{ site.waitOpen }}</span>
                 <br>
                 {% for sc in site.waitSchedule %}
                 <span style="font-size:20px;"><b>{{ sc.date }}</b><span style="font-size:8px;">(예정)</span> : {{ sc.msg }}</span>
