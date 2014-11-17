@@ -118,7 +118,7 @@ venueSmallImage11: "mic_1.jpg"
 venueSmallImage12: "mic_2.jpg"
 venueSmallImage13: "mic_3.jpg"
 venueTitle1: "마이크임팩트"
-venueFeatures1: ["Android Codelab 진행", "카페테리아겸 공유 공간"]
+venueFeatures1: ["WebTech Codelab 진행", "카페테리아겸 공유 공간"]
 venueOpen1: "block"
 
 venueBigImage2: "maru_0.png"

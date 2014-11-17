@@ -3,8 +3,8 @@
   dateReadable: "November 29"
   tracks: 
     - {title: "마루 180", type: "Session", color: "#46AEE2"}
-    - {title: "hybrid, 마이크 임팩트",  type: "CodeLab", color: "#2FB357"}
-    - {title: "Web, 카페 공간 여유", type: "CodeLab", color: "#FFDE1B"}
+    - {title: "Hybrid, 카페 공간 여유",  type: "CodeLab", color: "#2FB357"}
+    - {title: "Web, 마이크 임팩트", type: "CodeLab", color: "#FFDE1B"}
     - {title: "Android, 헨델과 그레텔", type: "CodeLab", color: "#EC2224"}
 
   timeslots:
