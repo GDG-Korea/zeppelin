@@ -120,7 +120,7 @@
 -
   id: 202
   title: "GO Bot 가지고 놀기"
-  description: 'GO 언어의 기초적인 사용법을 익히고 이미지 처리, 채팅 자동화 등을 연동해보는 것을 목표로 한다.<br>코드랩 자료 : http://github.com/GDG-Korea/GO-Bot</a>'
+  description: 'GO 언어의 기초적인 사용법을 익히고 이미지 처리, 채팅 자동화 등을 연동해보는 것을 목표로 한다.</br>코드랩 자료 : http://github.com/GDG-Korea/GO-Bot'
   location: "마이크 임팩트 스튜디오"
   speakers: [13]
   subtype: codelab
